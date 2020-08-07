@@ -106,7 +106,7 @@ $ npm start ou $ yarn start
 $ cd mobile
 $ npm install
 ```
-*Iniciar o mobile:
+* Iniciar o mobile:
 ```
 $ npm start ou $ yarn start
 ```
