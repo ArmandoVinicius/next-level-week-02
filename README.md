@@ -4,7 +4,7 @@
 
 <hr>
 
-<p>A plataforma Proffy foi construída ao percorrer da semana, na segunda edição do evento Next Level Week. Um evento gratuito da Rocketseat, onde o participante é desafiado a desenvolver juntamente com eles uma aplicação completa, que vai desde o back-end até o mobile</p>
+<p>A plataforma Proffy foi construída ao decorrer da semana, na segunda edição do evento Next Level Week. Um evento gratuito da Rocketseat, onde o participante é desafiado a desenvolver juntamente com eles uma aplicação completa, que vai desde o back-end até o mobile</p>
 
 <hr>
 
