@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">🚀 next_level_week</h1>
+<h1 align="center">🚀 next_level_week</h1>
 
-<p style="text-align: center;">|| "Uma semana para acelerar sua evolução como dev e avançar para o <strong>PRÓXIMO NIVEL</strong>." ||</p>
+<p align="center">|| "Uma semana para acelerar sua evolução como dev e avançar para o <strong>PRÓXIMO NIVEL</strong>." ||</p>
 
 <hr>
 
